@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
@@ -23,5 +20,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidendexter&" alt="aidendexter" /></p>
 
-
--->
