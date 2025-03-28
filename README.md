@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aidendexter" alt="aidendexter" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Dart,**
+- 🌱 I’m a Flutter developer! 
 
 - 📫 How to reach me **dave.bolotaev@gmail.com**
 
