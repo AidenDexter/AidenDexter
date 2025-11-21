@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- :japanese_castle: I’m a Flutter developer! enjoys crafting UI, structuring architecture, and automating workflows. I value clarity, testability, and a good developer experience.
+:japanese_castle:
+Building mobile apps with Flutter, experimenting with animations and architecture, and shipping ideas that feel good to use.
 
 
 <h3 align="left">Languages and Tools:</h3>
